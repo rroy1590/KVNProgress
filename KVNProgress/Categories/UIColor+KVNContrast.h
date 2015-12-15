@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Pinch. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 @interface UIColor (KVNContrast)
 
